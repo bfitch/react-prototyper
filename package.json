@@ -3,11 +3,6 @@
   "version": "0.1.0",
   "description": "A boilerplate",
   "main": "server.js",
-  "keywords": [
-    "express",
-    "webpack",
-    "node",
-  ],
   "author": "Christian Alfoni",
   "license": "MIT",
   "scripts": {

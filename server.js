@@ -26,7 +26,6 @@ if (isDeveloping) {
     }
   });
 
-  app.use(bodyParser.urlencoded({extended: false}));
   app.use(middleware);
   app.use(webpackHotMiddleware(compiler));
 
