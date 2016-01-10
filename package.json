@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "A boilerplate",
   "main": "server.js",
-  "author": "Christian Alfoni",
+  "authors": ["Christian Alfoni", "Brian Fitch"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfitch/react-prototyper"
+  },
   "license": "MIT",
   "scripts": {
     "test": "",
@@ -13,7 +17,6 @@
     "jscs": "jscs ."
   },
   "dependencies": {
-    "body-parser": "^1.14.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3"
   },
